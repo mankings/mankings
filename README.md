@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Miguel</h1>
-<h4 align="center">a freelance developer an also an engineering students at aveiro state university</h4>
+<h4 align="center">an informatics engineering student at deti@ua</h4>
 </div>
 
 <div align="center">
