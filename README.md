@@ -66,13 +66,13 @@
 -->
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 github profile stats</summary>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
+    <h2 align="center"> github stats </h2>
       <br/>
     <details open>
-  <summary><h3>Languages</h3></summary>
+  <summary><h3>languages</h3></summary>
             <p align="center">
         <a href="https://github.com/mankings/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mankings&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
